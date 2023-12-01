@@ -9,3 +9,6 @@ Code from SOMETHING:
 print("this is a test")
 #Yay
 ```
+
+### Screenshot
+![TomoDachi Mini For Coders! Project I am working on](Images/TomoGame%20screenshot.png)
